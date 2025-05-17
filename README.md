@@ -1,3 +1,3 @@
 # INTPROG FINAL PROJECT 
 
-John Cliford Laki https://user-management-system-17ke.vercel.app/
+Tanglao, Ashley Kyle L. https://user-management-system-17ke.vercel.app/
